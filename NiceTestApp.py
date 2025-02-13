@@ -16,7 +16,6 @@ Date: 2/12/2025
 """
 import argparse
 import logging
-import logging.handlers
 import os
 import platform
 import sys
